@@ -1,0 +1,5 @@
+mernstack
+shehryar
+Pakistan123
+
+mongodb+srv://shehryar:<password>@cluster0.f7prn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
